@@ -1,0 +1,17 @@
+{
+  "name": "advent_of_code_23",
+  "module": "index.ts",
+  "author": {
+    "name": "Antiformatiker",
+    "email": "antiformatiker@users.noreply.github.com",
+    "url": "https://github.com/antiformatiker"
+  },
+  "type": "module",
+  "license": "MIT",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
